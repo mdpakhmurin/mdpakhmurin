@@ -8,5 +8,5 @@
 
 ## 📬 Контакты со мной:
 - [VK](https://vk.com/mike_ways)
-- [Telegram](https://vk.com/mike_ways)
-- [Gmail](https://t.me/mike_ways)
+- [Telegram](https://t.me/mike_ways)
+- [mdpakgmurin@gmail.com](mailto:mdpakhmurin@gmail.com)
