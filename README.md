@@ -2,7 +2,7 @@
 <br/>
 
 ## 💻 Мои проекты:
-- [Кубик рубика на Three.js](https://mdpakhmurin.github.io/buvos-kocka/introduction.html)
+- [Кубик Рубика на Three.js](https://mdpakhmurin.github.io/buvos-kocka/introduction.html)
 - [Двумерное представление Raymarching](https://mdpakhmurin.github.io/RayMarching_2D/)
 <br/>
 
