@@ -9,4 +9,4 @@
 ### 📬 Contacts:
 - [Telegram](https://t.me/mdpakhmurin)
 - [Vk](https://vk.com/mdpakhmurin)
-- [mdpakgmurin@gmail.com](mailto:mdpakhmurin@gmail.com)
+- [mdpakhmurin@gmail.com](mailto:mdpakhmurin@gmail.com)
