@@ -7,5 +7,6 @@
 <br/>
 
 ### 📬 Contacts:
-- [Telegram](https://t.me/mike_ways)
+- [Telegram](https://t.me/mdpakhmurin)
+- [Vk](https://vk.com/mdpakhmurin)
 - [mdpakgmurin@gmail.com](mailto:mdpakhmurin@gmail.com)
